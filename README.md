@@ -1,3 +1,13 @@
+# Daily(24 hour) Activity Component
+
+This project displays an individual's 24 hour active and idle time. Built in using **React** with **JavaScript** and used **React Google Charts**.
+
+# Snapshots:
+
+![image](https://github.com/shivam-raj-4/daily-activity/assets/53818754/a6284be4-15fb-4854-961f-1af18fdf397a)
+![image](https://github.com/shivam-raj-4/daily-activity/assets/53818754/f583fa3b-0959-4d54-88fd-db8c2206e4d7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
